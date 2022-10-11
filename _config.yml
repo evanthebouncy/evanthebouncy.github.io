@@ -1,11 +1,14 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Evan Pu
+description: I make programming communicative
 
-baseurl: / #name of GitHub repository
+# url:            "https://evanthebouncy.github.io"
+# baseurl:        "/program-synthesis-minimal"
+
+# baseurl: / #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: "yewen.pu@autodesk.com"
 
 # Pagination
 paginate: 4
@@ -13,15 +16,18 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+
+linkedin: "evanthebouncy"
+# stackoverflow: "#"
+github: "evanthebouncy"
+twitter: "evanthebouncy"
+google-scholar: "citations?user=LJnNKXMAAAAJ&hl=en"
+# medium: "evanthebouncy"
+# researchgate: "#"
+# orcid: "#"
+# quora: "#"
+# instagram: "evanthebouncy"
+# facebook: "#"
 
 
 # Markdown

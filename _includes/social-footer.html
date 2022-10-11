@@ -89,4 +89,13 @@ target="_blank">
 </a>
 {%- endif -%}
 
+{%- if site.google-scholar -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'Stackoverflow' }}"
+class="social-button google-scholar" itemprop="sameAs"
+href="https://scholar.google.com/{{ site.google-scholar }}"
+target="_blank">
+<i class="fab fa-brands fa-google"></i>
+</a>
+{%- endif -%}
+
 </div>
