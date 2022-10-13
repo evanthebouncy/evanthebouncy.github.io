@@ -17,3 +17,6 @@ And, just like arts and music, you need the expertise to realize your vision. As
 
 Each collaboration is different, depending on our relevant interests, expertise, and the stakes at hand. Irrespective of the nature of our collaboration, first and foremost, I am investing in you, to help you (and myself) become a better person/thinker/collaborator/teacher -- a better scientist.
 
+
+#### mentoring news
+<span style="font-size:0.8em;"> 2022-04-18 [Saujas Vaduguru](https://twitter.com/saujasv), my collaborator/mentee whom I have been working with for over a year and written a recommendation letter for, has been accepted to CMU as a PhD student under [Daniel Fried](https://twitter.com/dan_fried). The most amazing thing is that I've never met Saujas in person and we collaborated entirely online. I have not met Daniel in person either. I hope to see them in real life soon! 😂 </span>

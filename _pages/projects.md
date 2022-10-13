@@ -5,7 +5,9 @@ permalink: /projects/
 published: true
 ---
 
+This is currently under construction! Be patient!
 
+<!-- 
 <div class="ProjectContainer">
 
 	<div class="gallery">
@@ -42,4 +44,4 @@ published: true
 
 	</div>
 
-</div>
+</div> -->
