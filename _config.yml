@@ -17,11 +17,11 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 
-linkedin: "evanthebouncy"
+# linkedin: "evanthebouncy"
 # stackoverflow: "#"
 github: "evanthebouncy"
 twitter: "evanthebouncy"
-google-scholar: "citations?user=LJnNKXMAAAAJ&hl=en"
+# google-scholar: "citations?user=LJnNKXMAAAAJ&hl=en"
 # medium: "evanthebouncy"
 # researchgate: "#"
 # orcid: "#"
