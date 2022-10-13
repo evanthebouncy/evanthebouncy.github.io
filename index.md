@@ -19,7 +19,7 @@ I believe good research is a _consequence_ of a good "party" -- both in the sens
 * <span style="font-size:0.8em;"> 2022-04-18 [Saujas Vaduguru](https://twitter.com/saujasv), my collaborator/mentee whom I've never met in person, has been accepted to CMU as a PhD student under [Daniel Fried](https://twitter.com/dan_fried), whom I've also never met in person. I hope to see them in real life soon! 😂 </span>
 
 ### representative publications
-For full list of publications see my [google scholar](https://scholar.google.com/citations?user=LJnNKXMAAAAJ&hl=en).
+I use "Yewen Pu" as my name for publications. For full list of publications see my [google scholar](https://scholar.google.com/citations?user=LJnNKXMAAAAJ&hl=en).
 
 [^larc]: [Communicating Natural Programs to Humans and Machines](https://arxiv.org/abs/2106.07824) (NeurIPS 2022) Track on Datasets and Benchmarks.
 
