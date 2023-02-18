@@ -11,7 +11,7 @@ Have you ever yelled at your computer before? Did it listen? Why is communicatin
 
 I believe that by studying computational models of how humans "program" each other, we can build better collaborative programming systems. I curate and analyze human instruction datasets [[1](https://arxiv.org/abs/2106.07824)] (cognitive science); instantiate communicative models within program synthesis algorithms [[2](https://arxiv.org/abs/2007.05060)] (artificial intelligence, programming language); and evaluate these algorithms with end-users (human-computer interactions).
 
-I believe good research is a _consequence_ of a good "party" -- both in the sense of having a good team 👥, and having a good time together 🎉. Here's [a (non-exhaustive) list (under construction!)] of my collaborators, whom I rely on for their expertise, guidance, and encouragement. Here is my [mentoring statement](/mentoring-statement/).
+I believe good research is a _consequence_ of a good "party" -- both in the sense of having a good team 👥, and having a good time together 🎉. I rely heavily on [my collaborators](/collaborators/) for their expertise, guidance, and encouragement. Here is my [mentoring statement](/mentoring-statement/).
 
 ### news
 * <span style="font-size:0.8em;"> 2022-10-13: The first installment to my minimalistic guide to program synthesis [is live!](https://evanthebouncy.github.io/program-synthesis-minimal/). It took me two months to write, get feedbacks, and edit. Hope you find it useful!! </span>
