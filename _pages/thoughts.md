@@ -16,7 +16,11 @@ Written in no particular order, but recent thoughts tends to be on top.
 
 ----
 
-[x] I need to work on having a tighter research statement sooner. my iteration speed on projects is lacking, because I explore too much and don't clamp down soon enough. focus on having a clear statement sooner.
+[x] josh: building collaborations with people you can learn from — not just do good work with, but learn from their approaches to research — is very good.
+
+[x] neural models -- good at bullshit almost right answers better than random. programs -- work tirelessly over large input sizes but brittle. reasoning (symbolic or probablistic) -- exhaustive over small domains and accurate, but unscalable. humans -- can do all 3 of the above if given enough time, but is expensive. we need to combine these things together in a truly collaborative system.
+
+[x] I need to work on having a tighter research statement sooner. my iteration speed on projects is lacking, because I explore too much and don't clamp down soon enough. focus on having a clear statement sooner. having people critique my work before all the details are fleshed out is helpful.
 
 [x] Robert Hawkins: as soon as you have a dictionary it becomes out of date. meanings change over time. I wonder what this has to do with how crappy programming language semantics, and DSL are?
 
