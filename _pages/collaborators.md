@@ -29,6 +29,8 @@ Here are some professionals that I've worked with closely in reverse chronologic
 
 [Kevin Ellis](https://www.cs.cornell.edu/~ellisk/) - Kevin will state at 8pm that he is "calling it a day", only to go home and write so much code by whispering to his computer, and run 3 miles the next morning before you see him again at 11am. Taught me to first write down what plots we wanted in the paper and working backwards. Saved me more than once in pushing bayesian equations around. Gym buddy and swole bro.
 
+[Osbert Bastani](https://obastani.github.io/) - Osbert was explaining his research at one point, and a combative audience started asking unproductive, ill-posed questions. Osbert looked at him with genuine confusion "sorry I don't understand, what do you mean by that?". The audience started to clarify his own question, and within 10 seconds it was game over for him.
+
 [Zachery Miranda](https://www.linkedin.com/in/zmiranda/) - First student I mentored. Despite my inexperience Zach was such a good natured and competent person it worked out well. Best Taliyah mid NA, especially in combo with my Rammus gank.
 
 [Zenna Tavares](http://www.zenna.org/) - Introduced me to the computational cogsci universe. Owner of the follow up question "in what sense?" after you making any statement. Elevated my thinking and cooking by showing me convincing alternatives such as being bayesian and using a blender. A supportive friend in my trying times.
