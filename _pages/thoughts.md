@@ -16,6 +16,10 @@ Written in no particular order, but recent thoughts tends to be on top.
 
 ----
 
+[x] I think humans place a disporportional amount of importance on energetic systems, as we are intrinstically energy seeking creatures. this reflects in fictions and politics, where we imagine adversaries and violence as our biggest threats -- someone out there to "get us". but the world is energy starved, and most of threats are the lack of energy, the boring dispassionate threat of coldness and starvation.
+
+[x] The Dialectics of Sketching: to _design_ is to plan for the making of something new.
+
 [x] josh: building collaborations with people you can learn from — not just do good work with, but learn from their approaches to research — is very good.
 
 [x] neural models -- good at bullshit almost right answers better than random. programs -- work tirelessly over large input sizes but brittle. reasoning (symbolic or probablistic) -- exhaustive over small domains and accurate, but unscalable. humans -- can do all 3 of the above if given enough time, but is expensive. we need to combine these things together in a truly collaborative system.
