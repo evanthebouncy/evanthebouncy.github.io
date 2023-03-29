@@ -16,6 +16,16 @@ Written in no particular order, but recent thoughts tends to be on top.
 
 ----
 
+[x] you want to make sure collaboration is in agreement on all levels: why -- why are we doing what we're doing? what -- what we're doing in order to meet the why? how -- the actual details. the agreement needs to be done in this order. make sure the team is in agreement on all levels, in this order. otherwise you can't move forward.
+
+[x] accomplishment is cool. getting things done are cool. "I don't care" is not cool at all, as it doesn't actually make anything.
+
+[x] there is a trade-off of automation and flexibility. typically you choose one or the other, but if you do it right you can do both.
+
+[x] good research address a bottleneck of a community that is current. you want to align this with your own interests.
+
+[x] validity = complexity in the right direction. you want to work on valid problems, not arbitrarily complex problems for no good reason.
+
 [x] I think humans place a disporportional amount of importance on energetic systems, as we are intrinstically energy seeking creatures. this reflects in fictions and politics, where we imagine adversaries and violence as our biggest threats -- someone out there to "get us". but the world is energy starved, and most of threats are the lack of energy, the boring dispassionate threat of coldness and starvation.
 
 [x] The Dialectics of Sketching: to _design_ is to plan for the making of something new.
