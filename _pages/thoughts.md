@@ -16,6 +16,14 @@ Written in no particular order, but recent thoughts tends to be on top.
 
 ----
 
+[x] marta : a great way to "measure" which tool is better in an open task (i.e. user do w/e they want) is to give the user a choice of tool, and see which they prefer more.
+
+[x] armando: some abstractions (w.r.t. LLM) are easy to translate and make connection to abstractiosn people use, others are outright impossible. humans have many different ways to use language to achieve the same goal.
+
+doing research (around llm as blackbox) is not a game we (armando's group) wants to play. llm is a steam roller, best not stand too close to it.
+
+[x] it is good to be clear about authorship of the paper _as soon as possible_ so that the first author assumes all responsibilities, i.e. the "catch all exception".
+
 [x] you want to make sure collaboration is in agreement on all levels: why -- why are we doing what we're doing? what -- what we're doing in order to meet the why? how -- the actual details. the agreement needs to be done in this order. make sure the team is in agreement on all levels, in this order. otherwise you can't move forward.
 
 [x] accomplishment is cool. getting things done are cool. "I don't care" is not cool at all, as it doesn't actually make anything.
