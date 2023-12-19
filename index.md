@@ -7,11 +7,13 @@ profile:
 published: true
 ---
 
-My research is to develop algorithms that can follow human instructions like people can. Humans can precisely understand other people’s instructions and can adjust their actions depending on the situation. To build algorithms that can do the same, we need a system that can perform counterfactual inferences over latent goals and utterances; and can internally simulate the outcomes of actions in various situations.
+My research is to develop algorithms that can follow human instructions like people can. Humans can precisely understand other people’s instructions and can adjust their actions depending on the situation. To build algorithms that can do the same, we need a system that can infer latent goals, and can internally simulate the outcomes of their actions.
 
-My work studies **natural programs** — instructions given to a person to carry out a task on a computer (e.g. modifying a 3D scene or writing code). I curate datasets of successful natural programs, and integrate cognitive models to build algorithms that can interpret these natural programs. I have worked on computational pragmatics, neuro-symbolic methods, and grounded semantics of natural language. I maintain close collaborations with researchers from cognitive science, programming languages, and human-computer interactions.
+My work studies **natural programs** — instructions given to a person to carry out a task on a computer (e.g. modifying a 3D scene or writing code). I curate datasets of successful natural programs, and integrate cognitive models to build algorithms that can interpret these natural programs. I have worked on code generation, computational pragmatics, and grounded semantics of natural language. I maintain close collaborations with researchers from cognitive science, programming languages, and human-computer interactions.
 
-I believe quality research is a _consequence_ of a well planned "party" -- both in the sense of having a good team 👥, and having a good time together 🎉. I rely heavily on [my collaborators](/collaborators/) for their expertise, guidance, and encouragement. Here is my [mentoring statement](/mentoring-statement/).
+I believe quality research is a consequence of a well planned "party" -- both in the sense of having a well-balanced and efficient team 👥, and enjoying doing great research together 🎉.
+ <!-- I rely heavily on [my collaborators](/collaborators/) for their expertise, guidance, and encouragement.  -->
+Here is my [mentoring statement](/mentoring-statement/).
 
 ### news
 
