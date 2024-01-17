@@ -17,6 +17,8 @@ Here is my [mentoring statement](/mentoring-statement/).
 
 ### news
 
+* <span style="font-size:0.8em;"> 2023-01-16: Two papers accepted to ICLR. [Hypothesis Search](https://arxiv.org/abs/2309.05660) is more traditional program synthesis from examples, but with LLM performing the inductive step of examples to programs. [Generating Pragmatic Examples to Train Neural Program Synthesizers](https://arxiv.org/abs/2311.05740) is a general method that allows any program by example synthesis system to reason about informative examples, and a culmination of a long lines of works we did in pragmatics+synthesis (a must read!). </span>
+
 * <span style="font-size:0.8em;"> 2023-12-01: Two papers accepted to NeurIPS, [ANPL](https://arxiv.org/abs/2305.18498) and [DiffVL](https://neurips.cc/virtual/2023/poster/70947). The overall theme of both paper is how to use natural language in conjuction with **search** to effectively communicate to machines. </span>
 
 * <span style="font-size:0.8em;"> 2022-10-13: The first installment to my minimalistic guide to program synthesis [is live!](https://evanthebouncy.github.io/program-synthesis-minimal/). It took me two months to write, get feedbacks, and edit. Hope you find it useful!! </span>
