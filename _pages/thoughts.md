@@ -15,6 +15,39 @@ In the near future, a LLM will be able to summarize this body of text, and you'd
 Written in no particular order, but recent thoughts tends to be on top.
 
 ----
+[x] max : what's the thing a reader should learn from the slide? if they don't learn anything new, remove the slide.
+
+[x] do not use subjective words like "X is important" in writing. that is NOT for you to say, that is for the reader to decide. state the facts, e.g. "X is common".
+
+[x] the value of writing is not to share with the world what's in your head, but to convince they reader how they should see the world differently.
+
+[x] alex / karl : a collaborator should bring something new to the table, they should be able to teach you something. otherwise arnt you working alone ?
+
+[x] josh : give it time, be patient. you'll grow into the researcher you're meant to be.
+
+[x] josh : it is good to frame yourself as someone who does code-generation, but something more interesting on top.
+
+[x] josh : a bad way to do research is "wouldn't it be cool to do X" --- that is a big waste of time. the right way to do research is question driven. what is the research question?
+
+[x] it is better to be firm, and expect your collaborator the same level of standard as yourself.
+
+[x] more important than being nice to students, be fair to students; show the same level of kindness to all students.
+
+[x] it is good to have paper / figure reviews internally in the group to have a standard of the group.
+
+[x] gabe grand : we'll call your figure "the egg man"
+
+[x] old ideas last longer than new ideas into the future. it is often good idea to re-connect with old ideas
+
+[x] in research on a new, challenging area, such as building algorithms that follow human instructions, you want to identify balloon monster problems -- challenging problems that goes pop if you push it slightly with this new technique. this way you can communicate what you're doing is valuable to other people, without sinking too much time into making your research fully fledged.
+
+[x] jiajun : on research, do not waste time. when stuck, identify the key question A to get unstuck -- "you really need to figure out A fast".
+
+[x] children learn concepts, such as "bucket", in very few number of interactions (6 times in their childhood), but the interaction is expansive, consisting of parent playing with the child with the bucket, using it, seeing it at different angles. about 30 minutes of interaction, very rich interactions. the child drives the learning process, manipulating the bucket, seeing it at different angles, and ask questions.
+
+[x] fuzzing programs to test compilers is a good idea. LLM can generate programs, correct or incorrect, to stress test a compiler to see if they are compiled right. the correctness of these programs do not matter.
+
+[x] jesse mu : to make sure model has good alignment with human, you can just ask it more questions, interact with it further, to see if it is still aligned.
 
 [x] marta : a great way to "measure" which tool is better in an open task (i.e. user do w/e they want) is to give the user a choice of tool, and see which they prefer more.
 

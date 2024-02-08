@@ -7,19 +7,21 @@ profile:
 published: true
 ---
 
-My research is to develop algorithms that can follow human instructions like people can. Humans can precisely understand other people’s instructions and can adjust their actions depending on the situation. To build algorithms that can do the same, we need a system that can infer latent goals, and can internally simulate the outcomes of their actions.
+I develop program synthesis (code generation) algorithms that ground human instructions as codes[^1], in a way a programmer would. A human programmer does much more than translating comments into Python. Given an instruction (stated in language, examples, or drawings), a human programmer can infer latent goals, generate code appropriate for the current situation, and interact to repair misunderstandings and overcome implementation difficulties.
 
-My work studies **natural programs** — instructions given to a person to carry out a task on a computer (e.g. modifying a 3D scene or writing code). I curate datasets of successful natural programs, and integrate cognitive models to build algorithms that can interpret these natural programs. I work on code generation, computational pragmatics, and grounded semantics of natural language. I maintain close collaborations with researchers from cognitive science, programming languages, and human-computer interactions.
+My work studies **natural programs** — instructions given to a person to carry out a task on a computer (e.g. modifying a 3D scene or writing code). I curate datasets of natural programs, and build program synthesis algorithms inspired by cognitive science to interpret these natural programs. Specifically, I work on program synthesis, computational pragmatics, and grounded semantics of natural language. I collaborate with researchers from cognitive science, programming languages, computer graphics, and human-computer interactions.
 
-I believe quality research is a consequence of a well planned "party" -- both in the sense of having a well-balanced and efficient team 👥, and enjoying doing great research together 🎉.
+I believe quality research is a consequence of a good "party" -- in a sense of a good team 👥, and a good time 🎉.
  <!-- I rely heavily on [my collaborators](/collaborators/) for their expertise, guidance, and encouragement.  -->
 Here is my [mentoring statement](/mentoring-statement/).
 
+[^1]: in a general sense, any interactions (programming, manipulating UI) with the computer.
+
 ### news
 
-* <span style="font-size:0.8em;"> 2023-01-16: Two papers accepted to ICLR. [Hypothesis Search](https://arxiv.org/abs/2309.05660) is more traditional program synthesis from examples, but with LLM performing the inductive step of examples to programs. [Generating Pragmatic Examples to Train Neural Program Synthesizers](https://arxiv.org/abs/2311.05740) is a general method that allows any program by example synthesis system to reason about informative examples, and a culmination of a long lines of works we did in pragmatics+synthesis (a must read!). </span>
+* <span style="font-size:0.8em;"> 2023-01-16: Two papers accepted to ICLR. [Hypothesis Search](https://arxiv.org/abs/2309.05660) deals with programming by examples (PBE) in a challenging (ARC) domain, where LLM performing the inductive step from examples to programs. [Generating Pragmatic Examples to Train Neural Program Synthesizers](https://arxiv.org/abs/2311.05740) is a general method that allows any PBE system to take account of user's informativity in generating examples, scalable to combinatorically complex space of programs. </span>
 
-* <span style="font-size:0.8em;"> 2023-12-01: Two papers accepted to NeurIPS, [ANPL](https://arxiv.org/abs/2305.18498) and [DiffVL](https://neurips.cc/virtual/2023/poster/70947). The overall theme of both paper is how to use natural language in conjuction with **search** to effectively communicate to machines. </span>
+* <span style="font-size:0.8em;"> 2023-12-01: Two papers accepted to NeurIPS, [ANPL](https://arxiv.org/abs/2305.18498) and [DiffVL](https://neurips.cc/virtual/2023/poster/70947). The overall theme of both paper is grounding natural language as **search problems**, providing an alternative to the conventional approach of grounding natural language directly into executable code. </span>
 
 * <span style="font-size:0.8em;"> 2022-10-13: The first installment to my minimalistic guide to program synthesis [is live!](https://evanthebouncy.github.io/program-synthesis-minimal/). It took me two months to write, get feedbacks, and edit. Hope you find it useful!! </span>
 
