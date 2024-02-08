@@ -9,7 +9,7 @@ published: true
 
 I develop program synthesis (code generation) algorithms that ground human instructions as codes[^1], in a way a programmer would. A human programmer does much more than translating comments into Python. Given an instruction (stated in language, examples, or drawings), a human programmer can infer latent goals, generate code appropriate for the current situation, and interact to repair misunderstandings and overcome implementation difficulties.
 
-My work studies **natural programs** — instructions given to a person to carry out a task on a computer (e.g. modifying a 3D scene or writing code). I curate datasets of natural programs, and build program synthesis algorithms inspired by cognitive science to interpret these natural programs. Specifically, I work on program synthesis, computational pragmatics, and grounded semantics of natural language. I collaborate with researchers from cognitive science, programming languages, computer graphics, and human-computer interactions.
+My work studies **natural programs** — instructions given to a person to carry out a task on a computer (e.g. modifying a 3D scene or writing code). I curate datasets of natural programs, and build program synthesis algorithms inspired by cognitive science to interpret these natural programs. Specifically, I work on program synthesis, computational pragmatics, and grounded semantics of natural language. I collaborate with researchers from cogsci, nlp, pl, grahpics, and hci.
 
 I believe quality research is a consequence of a good "party" -- in a sense of a good team 👥, and a good time 🎉.
  <!-- I rely heavily on [my collaborators](/collaborators/) for their expertise, guidance, and encouragement.  -->
