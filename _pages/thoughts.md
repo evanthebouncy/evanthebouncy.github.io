@@ -15,6 +15,43 @@ In the near future, a LLM will be able to summarize this body of text, and you'd
 Written in no particular order, but recent thoughts tends to be on top.
 
 ----
+
+[x] a presentation could be more like a poem, with more empty negative spaces, and let the audience fill in with their own imagination and excitement. however, what is being written has to be highly defensible and solid.
+
+[x] ask yourself everyday
+    - what is my high lvl goal ?
+    - what should I do to meet it?
+    - keep doing these two and become free of external validations
+
+[x] research is the shortest path to the research question
+
+[x] asking for critiques on presentation / paper, ask both:
+    - be cynical and brutal, why would you reject it ?
+    - be optimistic and excited, how would you sell it ?
+
+[x] judy fan on how to organize research
+    - organize it around sub-goals that you want to hit, an "attack path"
+
+[x] daniel ritche on experiments
+    - don't play wack-a-mole with experiments
+
+[x] armando on paper writing
+    - every paper is written around a singular idea or concept.
+
+[x] daniel fried on paper writing
+    - write it so the setting is more general, and double down if they ask about it (on writing paper with multiple domains)
+    - every sentence you re-write, ask yourself : rewrite this sentence to maximize the chance of paper getting accepted
+    - make the claim in the abstract / intro as strong and general as possible
+    - if you can have a paper where reader can appreciate without understanding technicals, that's how you get a W on inexperienced reviewers
+    - minimize confusion --- don't confuse the reader
+    - maximize impact --- never undersell it
+
+[x] beilei : 0 point in speaking to prove ur right. 100 point for speaking to accomplish a mutual goal. ppl are not stupid, they know which kind of speaking ur doing right away.
+
+[x] josh : be polite with prior works, "I'm not trying to take away from what's being build, they are impressive, BUT ... "
+
+[x] josh : be conservative with the claims, and upfront with the limitations. I am confident in what I am presenting as a way to get there, but we're not there. Long term road-map, Short term road map.
+
 [x] max : what's the thing a reader should learn from the slide? if they don't learn anything new, remove the slide.
 
 [x] do not use subjective words like "X is important" in writing. that is NOT for you to say, that is for the reader to decide. state the facts, e.g. "X is common".

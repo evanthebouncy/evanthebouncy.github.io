@@ -16,6 +16,7 @@ I view research as a form of self-expression like arts and music, over a stringe
 <!-- Having a good taste -- asking the right scientific questions -- is one of the most difficult challenges you will face in your academic career. In mentoring you, I will help you shape own voice as a researcher.  -->
 As scientists, we are responsible for generating good ideas, validating good ideas, and communicating these ideas to the right audience. We must also have good research "taste", as to focus on the "right" problems. Some of these might come naturally, while others we will need to conciously improve. In working with me, we will hone our skills as professionals together. 
 
+If you are interested in collaboration, find me on [twitter](https://twitter.com/evanthebouncy) or via email.
 <!-- I believe we do our most impactful research when we feel safe and relaxed -- having the peace to learn, having the leisure to ponder. -->
 
 <!-- #### mentoring news
