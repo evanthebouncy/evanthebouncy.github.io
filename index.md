@@ -33,8 +33,8 @@ Here is my [mentoring statement](/mentoring-statement/).
 
 ### news
 
+* <span style="font-size:0.8em;"> 2024-04-04: Gave a presentation to my old highschool on what it is like being a scientist. Take a look: https://youtu.be/DhxGRhUkb8c </span>
+
 * <span style="font-size:0.8em;"> 2024-01-16: Two papers accepted to ICLR. [Hypothesis Search](https://arxiv.org/abs/2309.05660) deals with programming by examples (PBE) in a challenging (ARC) domain, where LLM performing the inductive step from examples to programs. [Generating Pragmatic Examples to Train Neural Program Synthesizers](https://arxiv.org/abs/2311.05740) is a general method that allows any PBE system to take account of user's informativity in generating examples, scalable to combinatorically complex space of programs. </span>
 
 * <span style="font-size:0.8em;"> 2023-12-01: Two papers accepted to NeurIPS, [ANPL](https://arxiv.org/abs/2305.18498) and [DiffVL](https://neurips.cc/virtual/2023/poster/70947). The overall theme of both paper is grounding natural language as **search problems**, providing an alternative to the conventional approach of grounding natural language directly into executable code. </span>
-
-* <span style="font-size:0.8em;"> 2022-10-13: The first installment to my minimalistic guide to program synthesis [is live!](https://evanthebouncy.github.io/program-synthesis-minimal/). It took me two months to write, get feedbacks, and edit. Hope you find it useful!! </span>

@@ -7,14 +7,34 @@ published: true
 
 ### Thoughts
 
-Here are scattered thoughts that I think are cool.
-They range from ideas, quotes from others, observations, a dream I had, opinions. Think of these as passages found in fortune cookies. Treat with open minds and cautions.
+Here are scattered thoughts thare are useful.
+They range from ideas, quotes from others, observations, a dream I had, opinions. 
+They are vignettes, under-developed ideas, like fortune cookies.
+Treat with open minds and cautions.
 
-In the near future, a LLM will be able to summarize this body of text, and you'd be able to interact with it through a natural interface, which can retrieve the right quotes from this text document. 
-
-Written in no particular order, but recent thoughts tends to be on top.
+Recent thoughts tends to be on top.
 
 ----
+
+[x] data labeling IS natural program
+
+[x] open-source "freedom" didn't really work out because programming is too hard, and we traded freedom for convinience.
+
+[x] when you speak, don't ever say "I think Y". Always say "Because REASON X, it is that Y". nobody can read your thinkings, so the argument for Y becomes clearer if you first motivate it using X.
+
+[x] Kevin Ellis: bespoke methods come and go a LOT, datasets come and go SOMEWHAT, tasks last FOREVER. Nobody cared for shurdlu's system nor data, but the task of instruction to manipulation stuck around.
+
+[x] in data curation, the one I'm interested in (high quality, expensive data), active learning is important. The idea is, given a data-frame and our current hypotheses, what piece of data should we acquire next? can this be built into an acquisition function so that it is automatic?
+
+[x] HCI + ML is the future. HCI for data gathering and data labeling, building the interface that can serve _twice_, once for data curation, and once for interaction with AI.
+
+[x] In presenting a piece of work, do the following:
+- first, model your audience. how can your presentation be helpful to them?
+- distill this helpfulness into "goals" you need to hit with your presentation
+- based on these goals, _structure_ your presentation around sub-goals, that is the outline
+- simultaniously, list all the concepts of your work that you find important to explain
+- do a matching algorithm between the list of concepts and the structure of the sub-goals
+- don't have to worry about transitions between the slides / passages. the best transition is simply a recap of what you have covered, and what you will cover next.
 
 [x] a presentation could be more like a poem, with more empty negative spaces, and let the audience fill in with their own imagination and excitement. however, what is being written has to be highly defensible and solid.
 
