@@ -17,7 +17,7 @@ My work studies **natural programs** — instructions given to a person to carry
 
 ### my works
 
-I build datasets, algorithms, and [interactive systems](/interactive-systems/).
+I build [datasets](/datasets/), algorithms, and [interactive systems](/interactive-systems/).
 
 <span style="font-size:0.9em;"> For full list see my [google scholar](https://scholar.google.com/citations?user=LJnNKXMAAAAJ&hl=en), I use "Yewen Pu" as name in my publications. </span>
 

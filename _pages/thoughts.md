@@ -16,6 +16,10 @@ Recent thoughts tends to be on top.
 
 ----
 
+[x] judy: what (strategies, utterances, cog-stuff ...) do people _"reach for"_ to accomplish (task).
+
+[x] marta: your hypothesis is stronger if it can be validated across multiple different methods
+
 [x] data labeling IS natural program
 
 [x] open-source "freedom" didn't really work out because programming is too hard, and we traded freedom for convinience.
