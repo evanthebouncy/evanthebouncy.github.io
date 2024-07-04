@@ -25,3 +25,6 @@ In LARC, we ... human use language to ... rewards ... . This allow ... improvisa
 
 ---
 
+### refinements
+
+A way human achieves precision is ... and repairing the ...
