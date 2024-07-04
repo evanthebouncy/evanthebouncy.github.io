@@ -9,3 +9,20 @@ layout: default
 {% endif %}
 
 {{ content }}
+
+<!-- Apply the small-font-list class to the lists -->
+<style>
+  .small-font-list {
+      font-size: smaller;
+      line-height: 1.4;
+  }
+</style>
+
+<!-- If you want to ensure all lists have this class, use JavaScript to add the class to all ul and ol elements -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('ul, ol').forEach(function(list) {
+          list.classList.add('small-font-list');
+      });
+  });
+</script>
