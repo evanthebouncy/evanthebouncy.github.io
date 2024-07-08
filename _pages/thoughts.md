@@ -16,6 +16,8 @@ Recent thoughts tends to be on top.
 
 ----
 
+[x] andrew : in terms of robots, pick-place is easier than walking is easier than dextrious manipulation is easier than gymnastics. the two axis that both increase complexity are (1) number of contacts established and broken (pick and place few times, dextrious many many) and (2) amount of movements so you have to solve localization problem (bolted-down arm vs gymnastics).
+
 [x] do not mistake an approach for a goal. state the goal first, then think about the approach
 
 [x] kevin : in a first meeting with collaborators (undergrads in this case), the meeting should be organized as: 1. intro, who you are, what you do, ect; 2. a set of slides introducing the project; 3. the first task
