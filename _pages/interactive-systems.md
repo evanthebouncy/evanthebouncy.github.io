@@ -7,7 +7,8 @@ published: true
 
 # Interactive Systems !
 
-Here are some interactive systems with web interfaces that you can interact with.
+Here are some interactive systems with web interfaces that you can interact with. 
+These systems fall under my broad research area of "Pragmatic Program Synthesis", which [this video](https://youtu.be/vLEEZay_JzY?si=vaEn-YkAsZH5rcrZ) is a light introduction, give it a watch!
 
 --- 
 
