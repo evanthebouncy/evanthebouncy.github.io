@@ -27,7 +27,8 @@ William P. McCarthy, Justin Matejka, Karl D.D. Willis, Judith E. Fan, and Yewen 
 - [collaborators](/collaborators/)
 - [mentoring statement](/mentoring-statement/)
 - [updates / news on twitter](https://x.com/evanthebouncy)
-- [email](mailto:yewen.pu@autodesk.com)
+- [email](mailto:yewenpu1989@gmail.com)
+- [招生PDF](https://evanthebouncy.github.io/assets/pdfs/lab_invitation_2025_en.pdf)
 
 
 
