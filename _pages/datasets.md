@@ -7,7 +7,7 @@ published: true
 
 # Datasets !
 
-Here are some Datasets that I played a major role in curating. [This Video](https://www.youtube.com/watch?v=IrNR2BOqafM) is a good summary of how I collect datasets, please take a look! (sorry for the mumblings, I was really jet-lagged).
+Here are some Datasets that I played a major role in curating. [This Video](https://youtu.be/4_hk_qJ8tWk?si=dtuIyXXvWwM7ZvDh) is a good summary of how I think about dataset curation and how to do it.
 
 ---
 
