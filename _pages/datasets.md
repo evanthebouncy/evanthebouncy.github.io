@@ -14,9 +14,11 @@ Here are some Datasets that I played a major role in curating. [This Video](http
 ### mmmCAD : Multi-modal Modification of CAD
 <img src="/assets/images/datasets/mmmCAD.png" alt="Project Image" width="70%" />
 
-Small scale data from [Communicating Design Intent Using Drawing and Text](https://dl.acm.org/doi/10.1145/3635636.3664261){:target="_blank"}. \[~100 man-hours\] One participant (Designer) communicate with another (Maker) to collaboratively re-create a precise 2D CAD design. The Designer is given a target design, and must use drawing and language to communicate to the maker, who makes the design using a CAD interface.
+Small scale data from [Communicating Design Intent Using Drawing and Text](https://dl.acm.org/doi/10.1145/3635636.3664261){:target="_blank"}. \[~100 man-hours\] One participant (Designer) communicate with another (Maker) to collaboratively re-create a precise 2D CAD design. The Designer is given a target design, and must use drawing and language to communicate to the maker, who makes the design using a CAD interface. 
 
-Large scale data from [mrCAD: Multimodal Refinement of Computer-aided Designs](https://github.com/AutodeskAILab/mrCAD) A scaled up version of multi-modal communication about design refinements. mrCAD consists of 6,082 communication games, 15,163 instruction-execution rounds, played between 1,092 pairs of human players.
+
+Large scale data from [mrCAD: Multimodal Refinement of Computer-aided Designs](https://github.com/AutodeskAILab/mrCAD) A scaled up version of multi-modal communication about design refinements. mrCAD consists of 6,082 communication games, 15,163 instruction-execution rounds, played between 1,092 pairs of human players. \[~2000 man-hours\]
+
 --- 
 
 ### LARC : Language-complete Abstract Reasoning Corpus
