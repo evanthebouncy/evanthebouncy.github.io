@@ -7,10 +7,9 @@ profile:
 published: true
 ---
 
-What does it take to bridge the gap of code-generating systems (such as copilot, cursor) with a real human programmer? I build code[^1] generating systems inspired by human communications, enabling them to follow instructions with both flexibility and precision. Human communication is flexible in modality, situations, and conversation partners. Remarkably, these flexible instructions can convey precise tasks such as writing a program, refining a floor-plan, or operating a machinery. Current instruction-following systems are either inflexible (e.g. programming, user interface) or imprecise (e.g. LLM, generative AI). My work aims to develop computational models of human communication, and applying these models to build code generating agents that interact with people. 
-I elicit instruction [datasets](/datasets/), develop sample efficient instruction following algorithms, and evaluate [interactive systems](/interactive-systems/) with user studies.
+What does it take to bridge the gap between today’s code-generating systems (e.g., Copilot, Cursor) and a real human programmer? I build interactive code-generation (broadly, agentic) systems that communicate and collaborate with end users to solve tasks. These systems are intuitive to instruct while reliably interpreting and executing user intent. To build such systems, we draw insights from human communications, especially the cognitive/linguistic study on how humans achieve common-ground understanding through dialogue. Operatinally, I (a) curate human-human agentic datasets and benchmarks that remain challenging for today’s best agentic systems, (b) develop novel Bayesian models of human communication from (a), and build SOTA interactive code-generation systems from (b) .
 
-I will be joining NTU as an asst prof in June 2025. Previously, I was a principal research scientist at Autodesk AI Lab, where I work on code-generation for human-machine collaboration in CAD, and industry scale instruction-following dataset annotation. My academic collaborations focus on building (human) sample efficient instruction-following algorithms in program synthesis, embodied agents, and collaborative design. I collaborate broadly across Cogsci, NLP, PL, Graphics, and HCI. I received my PhD under Armando Solar-Lezama and Leslie Kaelbling at MIT.
+I started as an asst prof at NTU in June 2025. Previously, I was a principal research scientist at Autodesk AI Lab, where I work on code-generation for human-machine collaboration in CAD, and industry scale instruction-following dataset annotation. My domain expertise include code generation, embodied instruction following agents, and collaborative design. My target communities span broadly across Cogsci, NLP, PL, Graphics, and HCI. I received my PhD under Armando Solar-Lezama and Leslie Kaelbling at MIT.
 
 **Representative Works** 
 
@@ -18,8 +17,9 @@ I will be joining NTU as an asst prof in June 2025. Previously, I was a principa
   Yewen Pu, Kevin Ellis, Marta Kryven, Josh Tenenbaum, Armando Solar-Lezama
 - [Communicating Natural Programs to Humans and Machines](https://arxiv.org/abs/2106.07824) (NeuRIPS 2022) \
 Samuel Acquaviva *, Yewen Pu *, Marta Kryven, Theodoros Sechopoulos, Catherine Wong, Gabrielle E Ecanow, Maxwell Nye, Michael Henry Tessler, Joshua B. Tenenbaum
-- [Communicating Design Intent Using Drawing and Text](https://dl.acm.org/doi/10.1145/3635636.3664261) (Creativity & Cognition 2024) \
-William P. McCarthy, Justin Matejka, Karl D.D. Willis, Judith E. Fan, and Yewen Pu
+- [mrCAD: Multimodal Refinement of Computer-aided Designs](https://arxiv.org/abs/2504.20294) (arXiv 2025) \
+  William P. McCarthy, Saujas Vaduguru, Karl D. D. Willis, Justin Matejka, Judith E. Fan, Daniel Fried, and Yewen Pu
+
 
 **Additional Information**
 - [CV](/assets/CV.pdf)
@@ -32,5 +32,3 @@ William P. McCarthy, Justin Matejka, Karl D.D. Willis, Judith E. Fan, and Yewen 
 
 
 Shoot me a twitter message or email any time if you want to chat !
-
-[^1]: Code as in any interactions with a computer. For example: programming, API calls, and acting in a simulated environment.
