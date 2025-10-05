@@ -9,7 +9,7 @@ published: true
 
 Below is an (incomplete) list of collaborations, the kind of works we do, and a few highlighted publications.
 
-[Autodesk AI Lab](https://www.research.autodesk.com/research-areas/science/ai-lab/) Current employer. AI for CAD, industry scale instruction data elicitation, collaborative agents for design. [1](https://cogtoolslab.github.io/pdf/mccarthy_creativitycognition_2024.pdf), [2](https://arxiv.org/abs/2010.02392), [3](https://arxiv.org/abs/2104.09621) 
+[Autodesk AI Lab](https://www.research.autodesk.com/research-areas/science/ai-lab/) Past employer. AI for CAD, industry scale instruction data elicitation, collaborative agents for design. [1](https://cogtoolslab.github.io/pdf/mccarthy_creativitycognition_2024.pdf), [2](https://arxiv.org/abs/2010.02392), [3](https://arxiv.org/abs/2104.09621) 
 
 [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) (MIT : PL) PhD advisor. OG program synthesis. [1](https://arxiv.org/abs/2007.05060), [2](https://arxiv.org/abs/1711.03243)
 
@@ -39,13 +39,14 @@ Below are students that I am actively advising / mentoring
 
 [Saujas Vaduguru](https://saujasv.github.io/) (CMU) with Daniel Fried.
 
-[Di Huang](https://github.com/huangdi95) (CAS).
-
-[Keya Hu](https://lillian039.github.io/) (SJTU) Undergraduate exchange student, co advised with Kevin Ellis.
 
 #### Past Mentees
 
 Individuals that I have mentored in the past.
+
+[Di Huang](https://github.com/huangdi95) (CAS).
+
+[Keya Hu](https://lillian039.github.io/) (SJTU) Undergraduate exchange student, co advised with Kevin Ellis. Now doing a PhD at MIT.
 
 [Sam Acquaviva](https://samacquaviva.com/) (MIT) with Josh Tenenbaum, now at a stealth AI start-up.
 
