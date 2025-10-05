@@ -7,7 +7,7 @@ published: true
 
 ### Mentoring Statement
 
-**[research topic]** I am interested in using human communication as inspiration to build systems that interacts with people. This involves --- but not limited to --- building instruction-following datasets and benchmarks, developing instruction-following / code-generating algorithms, and evaluating interactive systems against humans.
+**[research topic]** I am interested in using human communication as inspiration to build systems that interacts with people. Any projects that are broadly related to this project I am happy to discuss!
 
 **[mentoring outlook]** I view research as a form of expression just like arts and music, albeit over a stringent medium of evidence and logic. I am interested in working with students who can take responsibilities of their own insights, and helping them operationalize these insights as scientific outputs.
 
@@ -20,5 +20,5 @@ This will allow us to do deep, meaningful work, while maintaining a steady level
 Developing the right hypotheses requires "taste", validating it through experiments requires "process", and communicating it requires "relatability".
 Some of these might come naturally, while others we'll work together. -->
 
-Find me on [twitter](https://twitter.com/evanthebouncy) or via [email](mailto:yewen.pu@autodesk.com). A quick zoom meeting never hurts.
+Find me on [twitter](https://twitter.com/evanthebouncy) or via [email](mailto:yewenpu1989@gmail.com). A quick zoom meeting never hurts.
 
