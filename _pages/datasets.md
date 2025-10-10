@@ -18,6 +18,7 @@ Small scale data from [Communicating Design Intent Using Drawing and Text](https
 
 
 Large scale data from [mrCAD: Multimodal Refinement of Computer-aided Designs](https://github.com/AutodeskAILab/mrCAD) A scaled up version of multi-modal communication about design refinements. mrCAD consists of 6,082 communication games, 15,163 instruction-execution rounds, played between 1,092 pairs of human players. \[~2000 man-hours\]
+[watch 10 min video](https://youtu.be/8__QuCih5Uc).
 
 --- 
 
