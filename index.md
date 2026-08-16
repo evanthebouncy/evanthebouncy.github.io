@@ -9,7 +9,7 @@ published: true
 
 What does it take to bridge the gap between today’s agentic systems and a human collaborator? Recent LLMs are increasingly strong at solving verifiable problems with clear feedback, but many tasks can’t be fully specified upfront. Instead, humans achieve task alignment in shared context through **dialogue**. Of the many communicative strategies people use, I’m especially interested in (i) iterative repair, (ii) convention formation, and (iii) building mutual mental models. I build interactive systems that embody these behaviors, so they are both natural to instruct and reliable in execution.
 
-I started as an asst prof at NTU in June 2025. My lab broadly work on code generation, instruction following agents, and collaborative design. We publish mainly in AI/ML conferences, with a few extensions in Cogsci, Graphics, and HCI.
+I lead the [Natural Programming Lab](https://natural-programming-lab.github.io/) at NTU since June 2025. My lab broadly work on code generation, instruction following agents, and collaborative design. We publish mainly in AI/ML conferences, with a few extensions in Cogsci, Graphics, and HCI.
 Previously, I was a principal research scientist at Autodesk AI Lab, and I received my PhD under Armando Solar-Lezama and Leslie Kaelbling at MIT.
 
 **Representative Works** 
